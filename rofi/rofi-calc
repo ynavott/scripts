@@ -1,0 +1,2 @@
+#!/bin/sh
+rofi -show calc -width 25 -lines 15 -font "mono 16" -location 4

@@ -1,0 +1,3 @@
+#!/bin/sh
+rofi -show keys -width 40 -lines 40 -font "mono 12" -theme-str '#prompt {font:
+"FontAwesome 12"; padding: -3 0 0 0;}'
