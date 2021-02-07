@@ -1,2 +1,0 @@
-#!/bin/sh
-rofi -show window -window-thumbnail -show-icons -theme-str '#window {height: 100%; width: 80em; border: 0px 2px 0px 0px;}' -theme-str 'element-icon { size: 30ch;}' -window-format '{t}' -columns 3
