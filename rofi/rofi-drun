@@ -1,2 +1,2 @@
 #!/bin/sh
-rofi -show drun -width 40
+rofi -show drun -width 30
